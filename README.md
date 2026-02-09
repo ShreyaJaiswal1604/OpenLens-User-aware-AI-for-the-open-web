@@ -47,11 +47,12 @@ There are tools to block website trackers. But nobody is watching the AI itself.
 
 ## Quick Demo
 
-<a href="https://youtu.be/cZkjrHSwVbU">
-  <img src="https://img.youtube.com/vi/cZkjrHSwVbU/maxresdefault.jpg" alt="OpenLens Demo" width="600" />
-</a>
+https://github.com/user-attachments/assets/cd13a19d-62b4-43e6-a94c-d639c9c9987b
 
-*Click the thumbnail to watch the 60-second demo on YouTube*
+
+*Click to watch the demo*
+
+*You can also watch it on YouTube - [click here](https://youtu.be/cZkjrHSwVbU)*
 
 
 ---

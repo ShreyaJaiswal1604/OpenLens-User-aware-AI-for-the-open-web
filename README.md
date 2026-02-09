@@ -318,4 +318,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Built by [Shreya Jaiswal](https://github.com/AgniveshChaubey) for Mozilla x Hack-Nation Global AI Hackathon 2026**
+**Built by [Shreya Jaiswal] for Mozilla x Hack-Nation Global AI Hackathon 2026**
